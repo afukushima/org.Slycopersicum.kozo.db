@@ -1,0 +1,14 @@
+Package: org.Slycopersicum.kozo.db
+Title: MODIFIED Genome wide annotation for Solanum lycopersicum
+Description: MODIFIED Genome wide annotation for Solanum lycopersicum, primarily based on mapping using Entrez Gene identifiers.
+Version: 0.1
+Author: Kozo Nishida <knishida@riken.jp>
+Maintainer: Atsushi Fukushima <atsushi.fukushima@riken.jp>
+Depends: R (>= 2.7.0), methods, AnnotationDbi (>= 1.32.0)
+Suggests: 
+Imports: methods, AnnotationDbi
+License: Artistic-2.0
+organism: Solanum lycopersicum
+species: Solanum lycopersicum
+biocViews: OrgDb, annotation
+
